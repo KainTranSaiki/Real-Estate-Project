@@ -1,0 +1,7 @@
+requests
+bs4
+confluent_kafka
+kafka
+kafka-python
+kafka-python-ng
+pyspark
